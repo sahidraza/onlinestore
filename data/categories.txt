@@ -1,0 +1,24 @@
+{
+  "data": [
+    [
+      "1",
+      "Men's clothing",
+      "55"
+    ],
+    [
+      "2",
+      "Jewelery",
+      "75"
+    ],
+    [
+      "3",
+      "Electronics",
+      "89"
+    ],
+    [
+      "4",
+      "Women's clothing",
+      "22"
+    ]
+  ]
+}
